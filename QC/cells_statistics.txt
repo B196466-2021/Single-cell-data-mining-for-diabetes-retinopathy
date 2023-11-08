@@ -1,0 +1,4 @@
+Sample	cell.raw.count	cell.clean.count
+SRR14804690	13288	4477
+SRR14804689	8259	3785
+Total	21547	8262
