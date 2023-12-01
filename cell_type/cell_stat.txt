@@ -1,9 +1,0 @@
-Cell_type	Count
-Müller glia	3228
-Rods cell	1129
-Bipolar cells	2338
-Cones	341
-Vascular endothelial cells	597
-Pericytes	240
-Retinal ganglion cells	213
-Microglia	176
